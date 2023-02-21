@@ -9,5 +9,17 @@
 ## DataSet
 * [5 billion CLIP-filtered image-text pairs](https://laion.ai/blog/laion-5b)
 
+## Popular text to image genai Repo
+* https://github.com/Stability-AI/StableDiffusion
+
+## The Stable Diffusion search engine
+Stable Diffusion Prompts Guide with Lexica Art
+* [lexica.art](https://lexica.art)
+
+## Transformers Library
+* [HuggingFace](https://huggingface.co)
+
+
 ## Learning Resource
 * [stablediffusion-machine-learning-model](https://medium.com/axinc-ai/stablediffusion-machine-learning-model-to-generate-images-from-text-22034d9b44b7)
+* [Stable diffusion tutorial. ULTIMATE guide](https://www.youtube.com/watch?v=DHaL56P6f5M)
