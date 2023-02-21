@@ -30,6 +30,7 @@ Stable Diffusion Prompts Guide with Lexica Art
 ## Golang AI
 * https://github.com/chewxy/lingo
 * https://github.com/sugarme/transformer
+* [Golang - Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLpxjmWvw6euoug1Bpgq75v_Y2iar_FGp8)
 
 
 ## Learning Resource
