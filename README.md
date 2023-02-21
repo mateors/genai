@@ -21,6 +21,13 @@ Stable Diffusion Prompts Guide with Lexica Art
 ## Transformers Library
 * [HuggingFace](https://huggingface.co)
 
+## High Fidelity Image Generation Using Diffusion Models | SR3: Image Super-Resolution
+* https://iterative-refinement.github.io
+
+## Golang AI
+* https://github.com/chewxy/lingo
+* https://github.com/sugarme/transformer
+
 
 ## Learning Resource
 * [stablediffusion-machine-learning-model](https://medium.com/axinc-ai/stablediffusion-machine-learning-model-to-generate-images-from-text-22034d9b44b7)
