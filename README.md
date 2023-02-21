@@ -5,6 +5,8 @@
 
 > StableDiffusion: Machine Learning Model to Generate Images From Text
 
+## Web user interface
+* [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## DataSet
 * [5 billion CLIP-filtered image-text pairs](https://laion.ai/blog/laion-5b)
