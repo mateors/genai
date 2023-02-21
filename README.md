@@ -23,6 +23,7 @@ Stable Diffusion Prompts Guide with Lexica Art
 
 ## High Fidelity Image Generation Using Diffusion Models | SR3: Image Super-Resolution
 * https://iterative-refinement.github.io
+* https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html
 
 ## Golang AI
 * https://github.com/chewxy/lingo
