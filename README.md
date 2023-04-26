@@ -36,3 +36,4 @@ Stable Diffusion Prompts Guide with Lexica Art
 ## Learning Resource
 * [stablediffusion-machine-learning-model](https://medium.com/axinc-ai/stablediffusion-machine-learning-model-to-generate-images-from-text-22034d9b44b7)
 * [Stable diffusion tutorial. ULTIMATE guide](https://www.youtube.com/watch?v=DHaL56P6f5M)
+* [Data-science-books](https://www.datacamp.com/blog/the-22-best-data-science-books-to-read-in-2022)
